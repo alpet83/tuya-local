@@ -1,8 +1,8 @@
 name: Control panel
-# products:
-#   - id: UNKNOWN
-#     manufacturer: Ekaza
-#     model: MiniPad
+products:
+  - id: v1zp0lctxamv1xyo
+    manufacturer: Moes
+    model: CCP-US-AVS
 entities:
   - entity: switch
     translation_key: switch_x
@@ -93,6 +93,7 @@ entities:
       - id: 84
         type: boolean
         name: switch
+        optional: true
   - entity: text
     name: Alarm clock
     category: config

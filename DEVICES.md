@@ -1425,6 +1425,7 @@ port and password.
 - Mayborn GroClock Connect sleep training alarm clock (also sold under Tommee Tippee and other brands)
 - ME201W level sensor
 - Mirabella Genio motion sensor
+- Moes CCP-US-AVS control panel with relays and Alexa speaker (also Ekaza MiniPad)
 - Moes human presence sensor
 - Moes single outlet water timer
 - Moes smart wake up light alarm clock
